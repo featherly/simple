@@ -1,1 +1,3 @@
 This is the Simple Project, the whole project is this text file.
+
+First edit for commit tracking test.
